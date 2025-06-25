@@ -1,7 +1,7 @@
 const startKeyboard = {
   reply_markup: {
     inline_keyboard: [
-      [{ text: '📱 Открыть приложение', web_app: { url: 'https://veilpay-webapp.vercel.app/' }}]
+      [{ text: '📱 Открыть приложение', web_app: { url: 'https://witty-bottles-send.loca.lt' }}]
     ]
   }
 };
